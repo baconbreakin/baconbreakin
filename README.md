@@ -6,7 +6,7 @@
 ### <div align="center">I'm Zach, a full-stack developer student 👨‍💻 looking for full-stack developer work 🚀</div>  
   
 
-- 🔭 I’m currently working on [My ReadMe](https://github.com/baconbreakin/baconbreakin)  
+- 🔭 I’m currently working on [DatabasePrototype](https://github.com/baconbreakin/DatabasePrototype)  
   
 
 - 🌱 I’m currently learning Many-to-Many Relationships with Python and Flask  
